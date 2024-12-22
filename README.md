@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is a frontend implementation based on the provided Figma design for CodeAnt AI, a Y Combinator-backed startup revolutionizing the code quality and security industry. The assignment demonstrates the ability to create intuitive user interfaces following modern best practices and design specifications.
+This project is a frontend implementation based on the provided Figma design for CodeAnt AI
+By - Varun Upadhyay (IIIT Una )
 
 ### Project Preview
 
